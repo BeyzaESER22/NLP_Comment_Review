@@ -45,3 +45,6 @@ The original all-in-one models were implemented by Meltem Çelik and Berk Ötün
 ## GitHub Verification
 
 The commits pushed through `asyaoral` should identify the runner, configuration, artefact-management, related testing, and presentation work described above. Commit hashes or pull-request links may be added after the final push.
+
+## Presentation Contribution
+- Edited the project presentation.
