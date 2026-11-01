@@ -1,0 +1,4 @@
+pattern,sentence_count,error_rate,other_error_rate,evaluated_model
+negation,206,0.796,0.689,BiLSTM-CRF
+contrast,111,0.838,0.696,BiLSTM-CRF
+multi_aspect,363,0.821,0.644,BiLSTM-CRF

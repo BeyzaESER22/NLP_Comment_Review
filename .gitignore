@@ -1,0 +1,10 @@
+.DS_Store
+__MACOSX/
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Generated model artefacts
+outputs/checkpoints/*.pt
+outputs/predictions/*.jsonl

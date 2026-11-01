@@ -1,0 +1,22 @@
+{
+  "seed": 42,
+  "sample_size": 0,
+  "test_size": 0.2,
+  "validation_size": 0.1,
+  "models": ["hmm", "crf", "bilstm_crf"],
+  "extract_opinions": true,
+  "hmm_unk_threshold": 1,
+  "hmm_smoothing": 0.01,
+  "crf_c1": 0.1,
+  "crf_c2": 0.1,
+  "crf_max_iterations": 100,
+  "batch_size": 32,
+  "max_epochs": 8,
+  "patience": 4,
+  "learning_rate": 0.003,
+  "weight_decay": 0.00001,
+  "word_dropout": 0.1,
+  "hidden_dim": 256,
+  "gradient_clip": 5.0,
+  "device": "auto"
+}

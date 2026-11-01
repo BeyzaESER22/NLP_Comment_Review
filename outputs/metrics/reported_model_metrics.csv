@@ -1,0 +1,5 @@
+model,precision,recall,f1,provenance
+HMM + Viterbi,0.6716,0.6204,0.6450,supplied_colab_output
+Linear-chain CRF,0.7560,0.6976,0.7256,supplied_colab_output
+BiLSTM-CRF,0.7570,0.7062,0.7307,supplied_colab_output
+BERT token classification,,,0.7368,supplied_colab_output

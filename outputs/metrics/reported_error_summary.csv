@@ -1,0 +1,6 @@
+error_type,hmm,crf,bilstm_crf
+missed,513,376,353
+boundary,398,300,303
+polarity,309,294,286
+spurious,285,168,173
+type,19,17,17

@@ -1,0 +1,12 @@
+matplotlib
+networkx
+nltk
+numpy
+pandas
+pytorch-crf
+scikit-learn
+seqeval
+sklearn-crfsuite
+torch
+transformers
+
